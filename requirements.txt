@@ -1,0 +1,1 @@
+streamlit-webrtc==0.35.1 /nstreamlit==1.2.0 /nopencv-python-headless==4.5.4.60
